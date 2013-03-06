@@ -1,5 +1,6 @@
 .. contents::
 
-Introduction
-============
+Introduction collective.formcriteria.numfield
+=============================================
 
+Extention for collective.formcriteria
