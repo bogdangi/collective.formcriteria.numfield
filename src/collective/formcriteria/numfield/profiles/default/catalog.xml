@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<object name="portal_catalog" meta_type="Plone Catalog Tool">
+ <index name="getPhysicalPath" meta_type="FieldIndex">
+  <indexed_attr value="getPhysicalPath"/>
+ </index>
+ <index name="numfield" meta_type="FieldIndex">
+  <indexed_attr value="numfield"/>
+ </index>
+ <column value="numfield"/>
+</object>
